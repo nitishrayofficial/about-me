@@ -1,4 +1,3 @@
-// script.js
 document.addEventListener('DOMContentLoaded', function() {
     // Example: Smooth scrolling for navigation links
     document.querySelectorAll('a[href^="#"]').forEach(anchor => {
