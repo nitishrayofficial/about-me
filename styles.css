@@ -46,8 +46,9 @@ header .navbar ul li a:hover {
 }
 
 .coming-soon h1 {
-    font-size: 4rem;
+    font-size: 8rem;
     font-weight: bold;
+    font-style: italic;
     color: #f0a500;
 }
 
